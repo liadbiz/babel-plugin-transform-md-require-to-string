@@ -14,6 +14,10 @@
         "chai": "4.0.2",
         "airbnb-js-shims": "1.1.1"
     },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/liadbiz/babel-plugin-transform-md-require-to-string.git"
+    },
     "scripts": {
         "test": "./node_modules/.bin/mocha",
         "build": "./node_modules/.bin/babel src --out-dir lib"
