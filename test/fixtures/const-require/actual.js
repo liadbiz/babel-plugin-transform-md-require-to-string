@@ -1,0 +1,1 @@
+const mdContent = require('./test/test.md');

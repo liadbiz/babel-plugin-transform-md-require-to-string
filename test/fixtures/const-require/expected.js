@@ -1,0 +1,1 @@
+const mdContent = '# hello glamorous';
