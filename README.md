@@ -1,4 +1,4 @@
-## babel-plugin-transform-md-require-to-string"
+## babel-plugin-transform-md-require-to-string
 
 this is a plugin that can replace you code like
 
